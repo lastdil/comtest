@@ -4,7 +4,7 @@ import static io.restassured.RestAssured.given;
 
 
 public class transferTest {
-    private static String uri = "https://sandme.ru/";
+    private static String uri = "https://sandme/";
     private static String USD = "d96d23be-30c9-4243-a9ab-e432e9a6f71d";
     private static String EUR = "95b22bb7-1bee-4bc5-9555-52689137eb49";
     private static String login = "0001@mailinator.com";
